@@ -1,0 +1,787 @@
+﻿Log file open, 01/18/20 10:32:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FASE4_Estudo
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203224
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Fleyva -epicuserid=b2a9059dfe50405cba89dd88c1ab9386 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:241][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.18-13.32.01:241][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:242][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.18-13.32.01:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:245][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.18-13.32.01:246][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.18-13.32.01:246][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.18-13.32.01:246][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.18-13.32.01:255][  0]LogHAL: Display: Platform has ~ 8 GB [8458571776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.18-13.32.01:255][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.18-13.32.01:255][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.18-13.32.01:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.18-13.32.01:256][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Scalability.ini]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.18-13.32.01:257][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.18-13.32.01:275][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.18-13.32.01:275][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.18-13.32.01:275][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Config/Windows/Engine.ini]
+[2020.01.18-13.32.01:275][  0]LogInit: Computer: DESKTOP-VBGOB6D
+[2020.01.18-13.32.01:275][  0]LogInit: User: Martelo
+[2020.01.18-13.32.01:275][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.01.18-13.32.01:275][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.18-13.32.01:275][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.18-13.32.01:275][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.18-13.32.01:275][  0]LogMemory: Process Physical Memory: 100.50 MB used, 100.50 MB peak
+[2020.01.18-13.32.01:275][  0]LogMemory: Process Virtual Memory: 91.95 MB used, 91.95 MB peak
+[2020.01.18-13.32.01:275][  0]LogMemory: Physical Memory: 4929.48 MB used,  3137.24 MB free, 8066.72 MB total
+[2020.01.18-13.32.01:275][  0]LogMemory: Virtual Memory: 4615.22 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2020.01.18-13.32.01:302][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.18-13.32.01:302][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.18-13.32.01:517][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.18-13.32.01:555][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.18-13.32.01:555][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.18-13.32.04:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.18-13.32.04:261][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.18-13.32.04:557][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.01.18-13.32.04:557][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.18-13.32.04:566][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.18-13.32.04:566][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.18-13.32.04:567][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.18-13.32.04:584][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.18-13.32.04:584][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.18-13.32.04:584][  0]LogWindows: EnumDisplayDevices:
+[2020.01.18-13.32.04:585][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.01.18-13.32.04:585][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.18-13.32.04:586][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.01.18-13.32.04:587][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.18-13.32.04:587][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.01.18-13.32.04:587][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.01.18-13.32.04:587][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.01.18-13.32.04:587][  0]LogRHI: Texture pool is 1501 MB (70% of 2144 MB)
+[2020.01.18-13.32.04:656][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.18-13.32.04:663][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.18-13.32.04:664][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.18-13.32.04:664][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.18-13.32.04:668][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.18-13.32.05:374][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.18-13.32.05:391][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.18-13.32.05:407][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.18-13.32.05:424][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.18-13.32.05:459][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.18-13.32.05:477][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.18-13.32.05:494][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.18-13.32.05:511][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.18-13.32.05:520][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.18-13.32.05:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.18-13.32.05:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.18-13.32.05:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.18-13.32.05:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.18-13.32.05:614][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.18-13.32.05:672][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.18-13.32.05:672][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.18-13.32.05:700][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.18-13.32.05:700][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.18-13.32.05:716][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.18-13.32.05:731][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.18-13.32.05:745][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.18-13.32.05:788][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.18-13.32.05:838][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.18-13.32.05:839][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.18-13.32.05:839][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.18-13.32.05:877][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.18-13.32.06:003][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Intermediate/Shaders/WorkingDirectory/1156/).
+[2020.01.18-13.32.06:003][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Martelo/AppData/Local/Temp/UnrealShaderWorkingDir/1F5D4DC3442EB9F2800767B6E75E3E17/'.
+[2020.01.18-13.32.06:007][  0]LogXGEController: Cleaning working directory: C:/Users/Martelo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.18-13.32.06:007][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.18-13.32.06:007][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.18-13.32.06:007][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.18-13.32.09:500][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: Loaded boot cache 0.50s 71MB C:/Users/Martelo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Martelo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.18-13.32.10:005][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.18-13.32.10:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.18-13.32.10:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.18-13.32.10:020][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.18-13.32.10:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Martelo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.18-13.32.10:032][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.18-13.32.10:032][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.18-13.32.10:059][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.18-13.32.10:060][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.18-13.32.10:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.18-13.32.10:161][  0]LogAssetRegistry: FAssetRegistry took 0.0352 seconds to start up
+[2020.01.18-13.32.10:576][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.18-13.32.10:840][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.18-13.32.10:840][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.18-13.32.10:840][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.18-13.32.10:840][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.18-13.32.10:840][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.18-13.32.10:853][  0]LogNetVersion: FASE4_Estudo 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3421287044)
+[2020.01.18-13.32.11:314][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032473 seconds
+[2020.01.18-13.32.11:322][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.18-13.32.11:322][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.18-13.32.11:322][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.18-13.32.20:632][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.18-13.32.20:646][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.18-13.32.20:763][  0]SourceControl: Source control is disabled
+[2020.01.18-13.32.20:763][  0]SourceControl: Source control is disabled
+[2020.01.18-13.32.20:765][  0]SourceControl: Source control is disabled
+[2020.01.18-13.32.20:767][  0]SourceControl: Source control is disabled
+[2020.01.18-13.32.20:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.18-13.32.21:048][  0]LogOcInput: OculusInput pre-init called
+[2020.01.18-13.32.21:983][  0]LogEngine: Initializing Engine...
+[2020.01.18-13.32.21:984][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.18-13.32.21:985][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.18-13.32.22:217][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.18-13.32.22:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.18-13.32.22:261][  0]LogInit: XAudio2 using 'Alto-falantes (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-13.32.23:468][  0]LogInit: FAudioDevice initialized.
+[2020.01.18-13.32.23:468][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.18-13.32.23:711][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/Martelo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.18-13.32.23:729][  0]LogInit: Texture streaming: Enabled
+[2020.01.18-13.32.23:810][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.18-13.32.23:810][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={45F65D5D-4107-2A79-9C5E-F091641E9BB9}
+[2020.01.18-13.32.23:843][  0]LogInit: Transaction tracking system initialized
+[2020.01.18-13.32.23:881][  0]BlueprintLog: New page: Editor Load
+[2020.01.18-13.32.24:004][  0]LocalizationService: Localization service is disabled
+[2020.01.18-13.32.24:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/' took 0.02s
+[2020.01.18-13.32.24:428][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.18-13.32.24:428][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.18-13.32.26:782][  0]SourceControl: Source control is disabled
+[2020.01.18-13.32.26:782][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.18-13.32.26:783][  0]LightingResults: New page: Lighting Build
+[2020.01.18-13.32.26:787][  0]MapCheck: New page: Map Check
+[2020.01.18-13.32.26:787][  0]LightingResults: New page: Lighting Build
+[2020.01.18-13.32.26:806][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.01.18-13.32.27:017][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.18-13.32.27:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.18-13.32.27:054][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.01.18-13.32.27:054][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.18-13.32.27:054][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2020.01.18-13.32.27:054][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.272
+[2020.01.18-13.32.27:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-13.32.27:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-13.32.27:418][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-13.32.27:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-13.32.27:439][  0]LogCollectionManager: Loaded 0 collections in 0.003050 seconds
+[2020.01.18-13.32.27:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Collections/' took 0.01s
+[2020.01.18-13.32.27:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/Developers/Martelo/Collections/' took 0.00s
+[2020.01.18-13.32.27:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/Collections/' took 0.00s
+[2020.01.18-13.32.27:458][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.18-13.32.27:467][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2732 classes and 659 folders.
+[2020.01.18-13.32.27:475][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.18-13.32.27:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.27:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.18-13.32.28:275][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.18-13.32.28:283][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.18-13.32.28:305][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.18-13.32.28:310][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.18-13.32.28:346][  0]LogSlate: Took 0.028098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.18-13.32.28:419][  0]LogRenderer: Reallocating scene render targets to support 744x372 Format 10 NumSamples 1 (Frame:1).
+[2020.01.18-13.32.28:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.18-13.32.28:598][  0]LogLoad: (Engine Initialization) Total time: 32.02 seconds
+[2020.01.18-13.32.28:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.18-13.32.28:644][  0]LogAssetRegistry: Asset discovery search completed in 18.5059 seconds
+[2020.01.18-13.32.28:646][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.18-13.32.28:646][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2020.01.18-13.32.28:647][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.18-13.32.28:662][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.18-13.32.40:047][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.18-13.32.43:555][307]Cmd: POLY SELECT REVERSE
+[2020.01.18-13.32.46:358][434]Cmd: DELETE
+[2020.01.18-13.32.46:358][434]Cmd: ACTOR DELETE
+[2020.01.18-13.32.46:369][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:370][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:371][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:371][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:371][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:371][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.32.46:396][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.18-13.32.46:396][434]LogEditorActor: Deleted 6 Actors (0.038 secs)
+[2020.01.18-13.32.47:691][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.32.51:552][697]LogActorFactory: Actor Factory created Floor_400x400
+[2020.01.18-13.32.52:471][734]LogActorFactory: Actor Factory created Floor_400x400
+[2020.01.18-13.32.57:494][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.33.04:831][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.33.15:022][739]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.18-13.33.15:349][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.33.15:437][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.18-13.33.16:326][739]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default7482C439423ECC0E63DC44A56D16D97D.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.18-13.33.16:498][739]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default_BuiltData6CD2A7C643E86ADC177A1D84236FC782.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.18-13.38.01:697][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.38.02:376][339]LogActorFactory: Actor Factory created Wall_500x500
+[2020.01.18-13.38.05:086][349]LogActorFactory: Actor Factory created Wall_500x500
+[2020.01.18-13.38.07:973][472]Cmd: DELETE
+[2020.01.18-13.38.07:973][472]Cmd: ACTOR DELETE
+[2020.01.18-13.38.07:979][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.38.08:012][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.01.18-13.38.08:013][472]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.01.18-13.38.10:537][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.38.10:958][575]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.01.18-13.38.11:839][612]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.01.18-13.42.38:303][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.42.38:573][449]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.01.18-13.42.38:791][449]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.01.18-13.42.38:867][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-13.42.38:867][449]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-13.42.38:867][449]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.01.18-13.42.39:034][449]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.01.18-13.42.39:155][449]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.01.18-13.42.39:415][449]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.18-13.42.39:440][449]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.18-13.42.39:511][449]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.18-13.42.39:548][449]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.18-13.42.39:588][449]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.01.18-13.42.39:636][449]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.01.18-13.42.39:692][449]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.01.18-13.42.39:813][449]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.01.18-13.42.54:874][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.42.56:959][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.43.03:848][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.43.05:318][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.43.08:157][696]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.18-13.43.09:267][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.43.09:277][696]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.18-13.43.09:338][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.43.11:518][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.43.23:079][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.43.30:249][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.43.33:926][611]Cmd: DELETE
+[2020.01.18-13.43.33:926][611]Cmd: ACTOR DELETE
+[2020.01.18-13.43.33:933][611]LogEditorActor: Deleted Actor: Character
+[2020.01.18-13.43.33:980][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.01.18-13.43.33:981][611]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.01.18-13.43.38:451][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.43.53:478][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.44.05:085][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.44.12:253][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.44.12:486][984]LogActorFactory: Actor Factory created Wall_400x300
+[2020.01.18-13.44.13:581][ 71]LogActorFactory: Actor Factory created Wall_400x300
+[2020.01.18-13.44.21:559][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.01.18-13.44.32:282][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.44.37:119][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.44.41:393][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.01.18-13.44.43:729][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.45.00:199][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.45.03:407][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.45.05:065][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.45.29:247][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.45.45:014][579]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.45.45:071][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.45.45:924][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.45.46:517][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.45.48:046][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.45.48:133][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.45.48:983][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.45.50:096][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.01.18-13.46.06:706][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.46.38:190][870]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.46.38:414][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.46.39:254][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.46.40:907][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.01.18-13.46.41:655][ 44]Cmd: DELETE
+[2020.01.18-13.46.41:655][ 44]Cmd: ACTOR DELETE
+[2020.01.18-13.46.41:658][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.46.41:691][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.01.18-13.46.41:691][ 44]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.01.18-13.46.42:978][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.46.43:962][143]Cmd: EDIT COPY
+[2020.01.18-13.46.44:201][144]Cmd: EDIT PASTE
+[2020.01.18-13.46.49:247][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.46.49:853][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2020.01.18-13.46.53:816][568]Cmd: EDIT COPY
+[2020.01.18-13.46.54:044][578]Cmd: EDIT PASTE
+[2020.01.18-13.47.00:515][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.47.29:721][145]Cmd: EDIT COPY
+[2020.01.18-13.47.29:923][154]Cmd: EDIT PASTE
+[2020.01.18-13.47.32:629][263]Cmd: TRANSACTION UNDO
+[2020.01.18-13.47.32:629][263]LogEditorTransaction: Undo Move Actors
+[2020.01.18-13.47.43:592][696]Cmd: EDIT COPY
+[2020.01.18-13.47.43:796][704]Cmd: EDIT PASTE
+[2020.01.18-13.47.45:630][770]Cmd: TRANSACTION UNDO
+[2020.01.18-13.47.45:630][770]LogEditorTransaction: Undo Paste
+[2020.01.18-13.47.46:647][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.01.18-13.47.50:463][952]Cmd: TRANSACTION UNDO
+[2020.01.18-13.47.50:463][952]LogEditorTransaction: Undo Move Actors
+[2020.01.18-13.47.51:607][997]Cmd: EDIT COPY
+[2020.01.18-13.47.51:853][  5]Cmd: EDIT PASTE
+[2020.01.18-13.48.12:024][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2020.01.18-13.48.14:832][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.48.26:504][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.48.43:172][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.48.48:610][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.18-13.48.54:735][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.48.56:202][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2020.01.18-13.48.56:889][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.18-13.49.07:208][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.49.11:782][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.49.11:814][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.01.18-13.49.11:935][ 39]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default1792B71D4E91A57B0FE8CBA210188C1F.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.18-13.49.12:037][ 39]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default_BuiltDataF27DAA9C45002081AD75ACA5BF5B80FF.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.18-13.49.13:632][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.49.22:596][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2020.01.18-13.50.25:002][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.50.40:393][511]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x303)
+[2020.01.18-13.50.40:452][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.50.41:759][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.18-13.50.48:998][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.50.49:467][811]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.50:023][827]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.52:240][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.50.52:420][908]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.52:884][925]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.55:055][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.50.55:220][999]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.55:988][ 27]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.50.56:440][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.50.56:476][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.18-13.50.56:599][ 43]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default01A4D5674681031BA8E3CFB8914BDA8D.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.18-13.50.56:700][ 43]LogSavePackage: Moving '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Saved/Minimal_Default_BuiltData911DD96C4C1A71103387A89CC3955267.tmp' to '../../../../../../Users/Martelo/Documents/Unreal Projects/FASE4_Estudo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.18-13.51.00:133][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.51.00:314][174]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.51.01:042][200]LogActorFactory: Actor Factory created SM_Rock
+[2020.01.18-13.51.14:187][490]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x303)
+[2020.01.18-13.51.14:272][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.51.16:843][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.51.21:610][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2020.01.18-13.51.26:861][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.51.27:754][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2020.01.18-13.51.30:316][264]Cmd: EDIT COPY
+[2020.01.18-13.51.30:631][276]Cmd: EDIT PASTE
+[2020.01.18-13.51.33:278][377]Cmd: EDIT COPY
+[2020.01.18-13.51.33:547][387]Cmd: EDIT PASTE
+[2020.01.18-13.51.35:468][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2020.01.18-13.51.35:941][477]Cmd: EDIT COPY
+[2020.01.18-13.51.36:197][486]Cmd: EDIT PASTE
+[2020.01.18-13.51.39:518][603]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.51.39:598][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.51.43:683][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2020.01.18-13.51.44:104][808]Cmd: EDIT COPY
+[2020.01.18-13.51.44:429][820]Cmd: EDIT PASTE
+[2020.01.18-13.51.46:633][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock7)
+[2020.01.18-13.51.50:912][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.51.54:895][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.51.59:664][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.52.06:094][657]LogActorFactory: Actor Factory created Shape_NarrowCapsule
+[2020.01.18-13.52.06:680][676]LogActorFactory: Actor Factory created Shape_NarrowCapsule
+[2020.01.18-13.52.08:742][759]Cmd: DELETE
+[2020.01.18-13.52.08:742][759]Cmd: ACTOR DELETE
+[2020.01.18-13.52.08:747][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.52.08:782][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.18-13.52.08:782][759]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.01.18-13.52.09:820][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.52.10:053][797]LogActorFactory: Actor Factory created Shape_Cylinder
+[2020.01.18-13.52.10:518][812]LogActorFactory: Actor Factory created Shape_Cylinder
+[2020.01.18-13.52.16:371][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.52.19:177][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2020.01.18-13.52.24:001][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.52.24:845][316]LogActorFactory: Actor Factory created Shape_Cone
+[2020.01.18-13.52.25:248][331]LogActorFactory: Actor Factory created Shape_Cone
+[2020.01.18-13.52.49:300][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2020.01.18-13.53.06:324][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.53.06:501][965]LogActorFactory: Actor Factory created Shape_Cone
+[2020.01.18-13.53.06:898][980]LogActorFactory: Actor Factory created Shape_Cone
+[2020.01.18-13.53.10:734][140]Cmd: DELETE
+[2020.01.18-13.53.10:734][140]Cmd: ACTOR DELETE
+[2020.01.18-13.53.10:741][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-13.53.10:775][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.18-13.53.10:775][140]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.01.18-13.53.12:153][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.53.16:477][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.53.16:627][397]LogActorFactory: Actor Factory created Shape_Cone
+[2020.01.18-13.53.25:763][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-13.53.27:330][890]Cmd: EDIT COPY
+[2020.01.18-13.53.27:539][899]Cmd: EDIT PASTE
+[2020.01.18-13.53.30:682][ 23]Cmd: EDIT COPY
+[2020.01.18-13.53.30:914][ 32]Cmd: EDIT PASTE
+[2020.01.18-13.53.33:119][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.18-13.53.36:662][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cone)
+[2020.01.18-13.53.37:022][253]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.18-13.53.45:155][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cone3)
+[2020.01.18-13.53.53:281][863]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cone2)
+[2020.01.18-13.53.53:377][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-13.53.58:085][954]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.18-13.53.58:086][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cone3)
+[2020.01.18-13.53.58:301][954]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:149 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.01.18-13.53.58:302][954]LogD3D11RHI: [Aftermath] GDynamicRHI=000001935CF220C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.01.18-13.53.58:302][954]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
